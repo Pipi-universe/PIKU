@@ -1,0 +1,22 @@
+
+[
+  {
+    "quote": "The four most dangerous words in investing are: ‘this time it’s different.’",
+    "author": "Sir John Templeton",
+    "year": "1912–2008",
+    "category": "心理學"
+  },
+  {
+    "quote": "An investment in knowledge pays the best interest.",
+    "author": "Benjamin Franklin",
+    "year": "1706–1790",
+    "category": "價值投資"
+  },
+  {
+    "quote": "The stock market is filled with individuals who know the price of everything, but the value of nothing.",
+    "author": "Philip Fisher",
+    "year": "1907–2004",
+    "category": "基本面"
+  }
+]
+    
